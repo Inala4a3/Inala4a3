@@ -1,15 +1,34 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Inala</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
-- 🔭 I’m currently working on **Version Control (Git): Use Git for managing the codebase and collaboration. Continuous Integration (CI): Set up Jenkins to automatically build and test code on repository updates. Containerization (Docker): Package the app into containers for consistent environments across stages. Container Orchestration (Kubernetes): Use Kubernetes to manage, scale, and deploy the containers. Continuous Deployment (CD): Automate deployment to staging or production with tools like Helm or ArgoCD. Monitoring and Logging: Implement Prometheus/Grafana for monitoring and ELK Stack for centralized logging.**
+- 🔭 I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **9 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS and Azure.
 
-- 🌱 I’m currently learning **AI & Python**
+---
 
-- 👯 I’m looking to collaborate on **Ansible, Terraform, Jenkins, AWS, Docker, Kubernetes**
+### 🧰 Tech Stack
 
-- 💬 Ask me about **Terraform ,jenkins,Kubernetes**
+- **Cloud**: AWS, Azure  
+- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
+- **SCM**: GitHub, Bitbucket  
+- **IaC**: Terraform  
+- **Containers**: Docker, Kubernetes  
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Splunk, Dynatrace, Prometheus, CloudWatch, Azure Monitor  
+- **Security**: IAM, RBAC, Azure Key Vault  
+- **Tools**: Nexus, JFrog Artifactory, SonarQube, Linux
 
-- 📫 How to reach me **Vinodkumar4a3@gmail.com**
+---
+
+### 🔧 What I Do
+
+- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
+- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
+- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
+- 🗃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
+- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
+- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
+- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
+- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
