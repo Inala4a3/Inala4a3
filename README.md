@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Inala</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
+<div align="center">
+  <img src="https://github.com/Vinodkumar/Vinodkumar/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+</div>
+
+🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform
+---
+
 - 🔭 I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **9 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS and Azure.
 
 ---
@@ -22,7 +29,7 @@
 ### 🔧 What I Do
 
 - 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
+- ☁️ Operate services on **Kubernetes**, delivering secure and efficient internal deployments  
 - 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
 - 🗃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
 - 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
