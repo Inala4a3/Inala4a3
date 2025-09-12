@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Inala</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
-<div align="center">
-  <img src="https://github.com/Vinodkumar/Vinodkumar/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
-</div>
-
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform
 ---
 
