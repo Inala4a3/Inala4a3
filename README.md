@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Inala</h1>
-<h3 align="center">A passionate Devops Engineer</h3>
 
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform
 ---
 
 - 🔭 I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **9 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS and Azure.
 
+---
+🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform
 ---
 
 ### 🧰 Tech Stack
